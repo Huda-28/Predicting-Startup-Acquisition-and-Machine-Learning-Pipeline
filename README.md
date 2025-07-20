@@ -1,0 +1,2 @@
+# Predicting-Startup-Acquisition-and-Machine-Learning-Pipeline
+Machine Learning Pipeline for Startup Success This project aims to predict the outcome of startups—Operating, IPO, Acquired, or Closed—using historical data. Interns will build a complete supervised machine learning pipeline involving data preprocessing, feature engineering, model training, evaluation, and deployment using Crunchbase startup data
